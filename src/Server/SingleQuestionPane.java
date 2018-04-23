@@ -1,12 +1,8 @@
 package Server;
 
-import javax.swing.JPanel;
-import javax.swing.GroupLayout;
+import javax.swing.*;
 import javax.swing.GroupLayout.Alignment;
-import javax.swing.JLabel;
-import javax.swing.JRadioButton;
 import javax.swing.LayoutStyle.ComponentPlacement;
-import javax.swing.ButtonGroup;
 
 public class SingleQuestionPane extends JPanel {
     private JRadioButton rdbtnOpt0;

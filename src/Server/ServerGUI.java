@@ -7,8 +7,6 @@ package Server;
 
 import javax.swing.*;
 import javax.swing.text.DefaultCaret;
-import java.io.IOException;
-import java.util.Date;
 
 /**
  * @author adeku
